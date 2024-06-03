@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on LLMs, RAG and GANs.<br>I'm currently learning Diffusion Methods and novel techniques in LLM integration<br>I'm looking to collaborrate on GAN-based projects.<br>Ask me about AI, ML, DL, Marvel-DC and Sitcoms!<br>Reach me via Email: [shashwat.kushwaha.iitkgp@gmail.com](mailto:shashwat.kushwaha.iitkgp@gmail.com)
+I'm currently working on CV,NLP, RA-LLMs and GANs.<br>I'm currently learning Diffusion Methods and novel techniques in LLM integration<br>I'm looking to collaborrate on GAN-based projects.<br>Ask me about AI, ML, DL, Marvel-DC and Sitcoms!<br>Reach me via Email: [shashwat.kushwaha.iitkgp@gmail.com](mailto:shashwat.kushwaha.iitkgp@gmail.com)
 
 
 
